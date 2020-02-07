@@ -1,0 +1,1 @@
+Costume.create(name: "Spiderman", price: 30.5)
